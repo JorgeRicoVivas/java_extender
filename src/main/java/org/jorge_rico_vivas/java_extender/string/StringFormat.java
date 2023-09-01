@@ -1,4 +1,4 @@
-package string;
+package org.jorge_rico_vivas.java_extender.string;
 
 import java.util.Arrays;
 import java.util.HashMap;

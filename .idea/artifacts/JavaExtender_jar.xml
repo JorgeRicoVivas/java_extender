@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaExtender.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaExtender_jar</output-path>
+    <root id="archive" name="JavaExtender.jar">
+      <element id="module-output" name="JavaExtender.main" />
+    </root>
+  </artifact>
+</component>
